@@ -11,13 +11,16 @@ sections:
     topGap: none
     bottomGap: none
     title: We do fishing differently
-    text: |-
-      A group of local fisherman, working to deliver sustainable fish to your table. <br />
-      Each fish you buy, helps support fishing reg  ulations and laws, to help sustain a better future for our waters, our food, and our globe.
+    text: >-
+      A group of local fisherman, working to deliver sustainable fish to your
+      table. <br />
+
+      Each fish you buy, helps support fishing reg  ulations and laws, to help
+      sustain a better future for our waters, our food, and our globe.
     actions:
       - type: Button
-        label: Get Started
-        url: https://www.stackbit.com/
+        label: Get Started!
+        url: 'https://www.stackbit.com/'
         style: primary
     backgroundImage:
       type: ImageBlock
@@ -31,8 +34,9 @@ sections:
     height: short
     alignHoriz: left
     testimonials:
-      - quote: |-
-          “It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.”
+      - quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
         name: Isabelle Parks
         title: Head chef at Parks
   - type: FeaturedPostsSection
@@ -56,11 +60,12 @@ sections:
     bottomGap: large
     alignHoriz: left
     title: Join our club
-    text: |-
-      We will notify you every time a shipment is heading to your neighborhood, and you could immediatly let us know if you want in or not.
+    text: >-
+      We will notify you every time a shipment is heading to your neighborhood,
+      and you could immediatly let us know if you want in or not.
     feature:
       type: ImageBlock
-      url: "/images/lobster.jpg"
+      url: /images/lobster.jpg
       altText: Fisherman holding lobster
     form:
       type: FormBlock
@@ -98,15 +103,18 @@ sections:
     bottomGap: none
     alignHoriz: left
     title: Let's go kayak fishing!
-    text: |-
-      That kayak fishing community is special, the connection and support the anglers share is unlike anything I have seen before. River Catch has seen this firsthand by participating in events and they’re always spending time with anglers.
+    text: >-
+      That kayak fishing community is special, the connection and support the
+      anglers share is unlike anything I have seen before. River Catch has seen
+      this firsthand by participating in events and they’re always spending time
+      with anglers.
     backgroundImage:
       type: ImageBlock
-      url: "/images/cta.jpg"
+      url: /images/cta.jpg
       opacity: 20
     actions:
       - type: Button
         label: Get Started
-        url: "https://www.stackbit.com/"
+        url: 'https://www.stackbit.com/'
         style: secondary
 ---
