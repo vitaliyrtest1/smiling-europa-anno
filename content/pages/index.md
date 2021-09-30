@@ -10,7 +10,7 @@ sections:
     alignHoriz: left
     topGap: none
     bottomGap: none
-    title: We do fishing differently
+    title: We do fishing differently!!
     text: >-
       A group of local fisherman, working to deliver sustainable fish to your
       table. <br />
